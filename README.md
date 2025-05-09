@@ -1,16 +1,65 @@
-## Hi there 👋
+# 🌍 Hello, World!
 
-<!--
-**pragati-chaturvedi/pragati-chaturvedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Welcome to my GitHub terminal. 🚀
 
-Here are some ideas to get you started:
+![Visitors](https://komarev.com/ghpvc/?username=pragati-chaturvedi&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+```bash
+$ whoami
+> Pragati Chaturvedi 
+
+$ goals --2025
+> Graduate 🎓 | Build something users love 💡 | Contribute to open-source 🌍
+```
+## What I ususally work with
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+## 📦 Featured Builds
+
+#### 🧠 [ChicMate](https://github.com/pragati-chaturvedi/ChicMate.git) – Your AI Outfit Assistant  
+_“What should I wear today?” Just ask ChicMate._  
+→ React Native app that picks outfits from your wardrobe using Gemini + CLIP  
+→ Recommends based on **weather**, **occasion**, and your uploaded items  
+→ Firebase-authenticated, FastAPI backend, vector similarity search
+
+#### 🗂️ [MindShelf](https://github.com/AI-Hackathon-April-2025/MindShelf) – AI Knowledge Organizer  
+_“Capture ideas. Summarize instantly. Never lose a link again.”_  
+→ Built during MLH AI Hackfest in under 24 hours 🚀  
+→ Paste a link, and Gemini API summarizes + tags it into searchable "Mindfiles"  
+→ Includes a Chrome extension + full-stack web app (React, Node.js, MongoDB)  
+→ Natural language search for easy recall of saved resources
+
+#### 📚 [LibBot](https://github.com/pragati-chaturvedi/LibBot.git) – Library Chatbot Manager  
+→ AI chatbot that manages library inventory via natural language  
+→ Built with Flask + OpenAI + Google Sheets API
+
+#### 🎨 [Chaos Game](https://pragati-chaturvedi.github.io/chaos-game/) – Interactive Fractal Visualizer  
+→ Real-time rendering of Sierpiński-like patterns with React + Canvas API
+
+---
+
+### 🌐 Let's Connect
+
+- 🌐 [Portfolio](https://pragati-chaturvedi-portfolio.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pragati-chaturvedi-2b2885219/)
+- 📨 [Email](mailto:pragatic810@icloud.com)
+- 🧠 [GitHub Projects](https://github.com/pragati-chaturvedi)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragati-chaturvedi&show_icons=true&theme=default" width="48%" />
+</p>
