@@ -60,9 +60,3 @@ _“Capture ideas. Summarize instantly. Never lose a link again.”_
 - 🧠 [GitHub Projects](https://github.com/pragati-chaturvedi)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragati-chaturvedi&show_icons=true&theme=default" width="48%" />
-</p>
