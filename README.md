@@ -18,7 +18,7 @@ _“What should I wear today?” Just ask ChicMate._
 → Recommends based on **weather**, **occasion**, and your uploaded items  
 → Firebase-authenticated, FastAPI backend, vector similarity search
 
-#### 🗂️ [MindShelf](https://github.com/AI-Hackathon-April-2025/MindShelf) – AI Knowledge Organizer  
+#### 🗂️ [MindShelf](https://github.com/AI-Hackathon-April-2025/MindShelf) [Checkout](http://mindshelf-frontend.s3-website-us-east-1.amazonaws.com/login)– AI Knowledge Organizer  
 _“Capture ideas. Summarize instantly. Never lose a link again.”_  
 → Built during MLH AI Hackfest in under 24 hours 🚀  
 → Paste a link, and Gemini API summarizes + tags it into searchable "Mindfiles"  
