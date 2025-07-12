@@ -1,9 +1,6 @@
 # 🌍 Hello, World!
 
 > Welcome to my GitHub terminal. 🚀
-
-![Visitors](https://komarev.com/ghpvc/?username=pragati-chaturvedi&color=blue&style=flat-square)
-
 ---
 ```bash
 $ whoami
