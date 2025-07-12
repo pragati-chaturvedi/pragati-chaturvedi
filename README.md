@@ -7,7 +7,7 @@ $ whoami
 > Pragati Chaturvedi 
 
 $ goals --2025
-> Graduate 🎓 | Build something users love 💡 | Contribute to open-source 🌍
+> Graduate🎓 ✅ | Build something users love💡 📈 | Contribute to open-source🌍 👩‍💻
 ```
 
 ## 📦 Featured Builds
