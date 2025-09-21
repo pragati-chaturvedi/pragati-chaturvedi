@@ -27,8 +27,8 @@ _“Capture ideas. Summarize instantly. Never lose a link again.”_
 
 #### 🗂️ [Dog Runner Game](https://github.com/pragati-chaturvedi/GameDev_JS) [[Checkout](https://pragati-chaturvedi.github.io/GameDev_JS/)] – Game Built with Vanilla JS and Canvas API
 _“Coding a game teaches a lot!!”_  
-→ Built for fun (I am a geek!) and found out how building a game is not fun and games. 🚀  
-→ A side scrollable game handling player movement (running, jumping, rolling) and interaction with NPCs in the game.
+→ Built for fun (I am a geek!) and found out how building a game is not fun and games 🚀  
+→ A side scrollable game handling player movement (running, jumping, rolling) and interaction with NPCs in the game
 → Designed UI and Game Logic. 
 
 #### 📚 [LibBot](https://github.com/pragati-chaturvedi/LibBot.git) – Library Chatbot Manager  
