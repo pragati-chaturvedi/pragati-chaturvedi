@@ -25,11 +25,12 @@ _“Capture ideas. Summarize instantly. Never lose a link again.”_
 → Includes a Chrome extension + full-stack web app (React, Node.js, MongoDB)  
 → Natural language search for easy recall of saved resources
 
-#### 🗂️ [Dog Runner Game](https://github.com/pragati-chaturvedi/Hop-n-Dash-Game) [[Checkout](https://pragati-chaturvedi.github.io/Hop-n-Dash-Game/)] – Game Built with Vanilla JS and Canvas API
+#### 🗂️ [Hop 'N Dash - Game](https://github.com/pragati-chaturvedi/Hop-n-Dash-Game) [[Checkout](https://pragati-chaturvedi.github.io/Hop-n-Dash-Game/)] – Game Built with Vanilla JS and Canvas API
 _“Coding a game teaches a lot!!”_  
 → Built for fun (I am a geek!) and found out how building a game is not fun and games 🚀  
 → A side scrollable game handling player movement (running, jumping, rolling) and interaction with NPCs in the game  
 → Designed UI and Game Logic.
+→ In this game users control a playful dog that must roll into all kinds of enemies to score points and avoid collisions to stay alive.
 
 #### 📚 [LibBot](https://github.com/pragati-chaturvedi/LibBot.git) – Library Chatbot Manager  
 → AI chatbot that manages library inventory via natural language  
