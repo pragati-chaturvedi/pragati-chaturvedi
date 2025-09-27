@@ -25,7 +25,7 @@ _“Capture ideas. Summarize instantly. Never lose a link again.”_
 → Includes a Chrome extension + full-stack web app (React, Node.js, MongoDB)  
 → Natural language search for easy recall of saved resources
 
-#### 🗂️ [Dog Runner Game](https://github.com/pragati-chaturvedi/GameDev_JS) [[Checkout](https://pragati-chaturvedi.github.io/GameDev_JS/)] – Game Built with Vanilla JS and Canvas API
+#### 🗂️ [Dog Runner Game](https://github.com/pragati-chaturvedi/Hop-n-Dash-Game) [[Checkout](https://pragati-chaturvedi.github.io/Hop-n-Dash-Game/)] – Game Built with Vanilla JS and Canvas API
 _“Coding a game teaches a lot!!”_  
 → Built for fun (I am a geek!) and found out how building a game is not fun and games 🚀  
 → A side scrollable game handling player movement (running, jumping, rolling) and interaction with NPCs in the game  
